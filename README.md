@@ -8,4 +8,8 @@ Useful to convert all your Free Sounds tracks to video the easy way:
 (example: https://sound.freeundergroundtekno.org/uploads/tracks/310702550_1246163068_1105077878.mp3)
 
 2. Insert your e-mail, you will receive a link to download your video
-3. Download you video
+3. Download your video
+4. All generated videos will be automatically deleted after 24 hours
+
+
+- [Example video](https://www.youtube.com/watch?v=go2OBj9KTOs)
